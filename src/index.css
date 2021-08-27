@@ -1,0 +1,52 @@
+body {
+  /* background: #8b0404; */
+  margin: 0;
+  font-family: 'Arial-Rounded', sans-serif;
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+font {
+  font-family: inherit !important;
+}
+
+@font-face {
+  font-family: "titling light";
+  src: url("./assets/fonts/Havelock_Titling Light.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "titling black";
+  src: url("./assets/fonts/Havelock_Titling_Black.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "titling bold";
+  src: url("./assets/fonts/Havelock_Titling_Bold.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "titling medium";
+  src: url("./assets/fonts/Havelock_Titling_Medium.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "titling regular";
+  src: url("./assets/fonts/Havelock_Titling_Regular.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
